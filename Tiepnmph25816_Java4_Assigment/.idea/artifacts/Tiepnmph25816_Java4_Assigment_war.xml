@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Tiepnmph25816_Java4_Assigment:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Tiepnmph25816_Java4_Assigment</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Tiepnmph25816_Java4_Assigment-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Tiepnmph25816_Java4_Assigment:war exploded" />
+    </root>
+  </artifact>
+</component>
